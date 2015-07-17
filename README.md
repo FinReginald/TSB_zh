@@ -1,6 +1,6 @@
 ###NOTICE (Updated 07-15-2015)
 
-##FORK BAA
+##FORK B
 
 ##TOS辣条汉化组
 
